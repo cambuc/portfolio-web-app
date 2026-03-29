@@ -13,8 +13,9 @@ export default function Hero() {
         <h1 className="hero__name">Cameron Buchanan</h1>
         <h2 className="hero__title">Software Engineering Student</h2>
         <p className="hero__bio">
-          Full-stack developer with experience building transit systems, data pipelines, and web
-          applications. Passionate about writing clean, impactful software.
+          Full-stack developer with experience building transit systems, data pipelines, web
+          applications, and AI agents. Passionate about writing clean,
+          impactful software.
         </p>
         <div className="hero__actions">
           <button className="btn btn--primary" onClick={() => scrollTo('#projects')}>

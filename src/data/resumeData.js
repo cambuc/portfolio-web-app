@@ -7,6 +7,7 @@ export const skills = [
   'React',
   'Angular',
   '.NET',
+  'AI Agents & Multi-Agent Systems',
   'Power BI',
   'Snowflake',
   'Excel',
